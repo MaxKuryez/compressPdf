@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "@matbee/libreoffice-converter": "^2.6.0",
     "compress-pdf": "^0.6.1",
     "pdf-lib": "^1.17.1"
   }
